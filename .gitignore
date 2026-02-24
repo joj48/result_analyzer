@@ -1,0 +1,21 @@
+# Temporary runtime data
+uploads/
+outputs/
+reports/
+
+# Environment variables / secrets
+.env
+Api.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# IDE files
+.idea/
+
+# Logs
+logs/
